@@ -1,4 +1,5 @@
-#My coding journey
+# My coding journey
+
 A collection of my coding solutions, practice problems, and mini-projects. I upload code regularly to track my progress and improve my skills.  
 
 🔹 Language: Python  
